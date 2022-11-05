@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vo_simulator/static/css/main.a65d39ef.css",
+    "main.js": "/vo_simulator/static/js/main.e9439224.js",
+    "static/js/787.2cfb4273.chunk.js": "/vo_simulator/static/js/787.2cfb4273.chunk.js",
+    "static/media/officerFemale.png": "/vo_simulator/static/media/officerFemale.e106e5a4195503dafc4e.png",
+    "static/media/officerMale.png": "/vo_simulator/static/media/officerMale.fc15c3c761f8df7f75e2.png",
+    "static/media/officerIggy.png": "/vo_simulator/static/media/officerIggy.25390c834353a7e9164d.png",
+    "static/media/logo.svg": "/vo_simulator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vo_simulator/index.html",
+    "main.a65d39ef.css.map": "/vo_simulator/static/css/main.a65d39ef.css.map",
+    "main.e9439224.js.map": "/vo_simulator/static/js/main.e9439224.js.map",
+    "787.2cfb4273.chunk.js.map": "/vo_simulator/static/js/787.2cfb4273.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65d39ef.css",
+    "static/js/main.e9439224.js"
+  ]
+}
